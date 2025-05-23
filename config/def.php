@@ -25,7 +25,8 @@ define('LOAD_MODULE',[
   'account',
   'dashboard',
   'device',
-  'sidedash'
+  'sidedash',
+  'checkout'
 ]);
 
 /* nginx conf
